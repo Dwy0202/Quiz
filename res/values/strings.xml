@@ -1,0 +1,60 @@
+<resources>
+
+    <string name="title">Audio Concepts</string>
+    <string name="titleDescription">A quiz about audio knowledge</string>
+
+    <string name="app_name">Quiz</string>
+    <string name="name">Please enter your name:</string>
+    <!--Question 1 -->
+    <string name="question1">1. Audio amplifiers drive speakers to create music using what form of electricity?</string>
+    <string name="question1a">Alternating Current</string>
+    <string name="question1b">Direct Current</string>
+    <string name="question1c">Wireless</string>
+    <string name="question1d">Bluetooth</string>
+
+    <!--Question 2 -->
+    <string name="question2">2. When testing the impedance of a loud speaker, what should your meter be set to?</string>
+    <string name="question2a">Direct Current</string>
+    <string name="question2b">Alternating Current</string>
+    <string name="question2c">Hertz</string>
+    <string name="question2d">Ohms</string>
+
+    <!--Question 3-->
+    <string name="question3">3. The human hearing range is between?</string>
+    <string name="question3a">20 Hz to 20,000 Hz</string>
+    <string name="question3b">20 Hz to 2000 Hz</string>
+    <string name="question3c">20,000 Hz to 200,000 Hz</string>
+    <string name="question3d">200,000 Hz to 2,000,000 Hz</string>
+
+    <!--Question 4-->
+    <string name="question4">4. Power output of an amplifier is measured in what units?</string>
+    <string name="question4a">Hertz</string>
+    <string name="question4b">Ohms</string>
+    <string name="question4c">Watts</string>
+    <string name="question4d">Decibels</string>
+
+    <!--Question 5-->
+    <string name="question5">5. Select all electrical components that are used when building a passive crossover.</string>
+    <string name="question5a">Resistor</string>
+    <string name="question5b">Inductor</string>
+    <string name="question5c">Capacitor</string>
+    <string name="question5d">Transformer</string>
+
+
+    <!--Question 6-->
+    <string name="question6">6. For the average listener, how many dB\'s must increase until it appears twice as loud?</string>
+    <string name="question6a">2 dB</string>
+    <string name="question6b">10 dB</string>
+    <string name="question6c">3 dB</string>
+    <string name="question6d">5 dB</string>
+
+    <!--Question 7-->
+    <string name="question7">7. Audio frequency is measured in what units?</string>
+    <string name="question7a">Complete spelling</string>
+
+    <string name="submit">Submit</string>
+    <string name="email">Email Results</string>
+
+
+
+</resources>
